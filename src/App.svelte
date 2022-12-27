@@ -37,7 +37,7 @@
         version: "1.0",
         addToCaptureMenu: true,
         addToMoreMenu: true,
-        addToWidgets: true,
+        addToWidgets: false,
       }); 
   let inNomie = false;
   let isSideNavOpen = false;
