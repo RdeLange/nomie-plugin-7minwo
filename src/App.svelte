@@ -31,7 +31,7 @@
   const plugin = new NomiePlugin({
         name: pluginname,
         emoji: pluginemoji,
-        description: "Starter Template for Nomie6 Plugins",
+        description: "7 Minutes Workout Plugin",
         uses: ["createNote", "getTrackable","selectTrackables", "getLocation"],
         version: "1.0",
         addToCaptureMenu: true,
@@ -322,7 +322,7 @@ function showMain(){
     }} 
     else {
         console.log("Nothing will be saved as settings are not configured")
-        plugin.alert("Congratulation!", "Congratulations, you finalised a workout. You do not have any settings on how to log this in Nomie so nothing will be logged");
+        plugin.alert("Congratulation!", "Congratulations, you finalised a workout. You do not have any settings on how to log this in "+parent+" so nothing will be logged");
        
     }
     showMain();
@@ -372,7 +372,7 @@ function showMain(){
 {:else if !inNomie}
         <h1 style="text-align:center">{pluginemoji}</h1>
         <h2 style="text-align:center">{pluginname}</h2>
-        <h5 style="text-align:center">This is a plugin for Nomie</h5>
+        <h5 style="text-align:center">This is a plugin for {parent}</h5>
         <hr>
 {/if}
 {#if loading}

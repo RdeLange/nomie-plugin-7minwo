@@ -170,7 +170,7 @@ async function initConfig(){
     </Tile>
     <br>
     <Tile>
-      <h4>Nomie Log Settings:</h4>
+      <h4>Log Settings:</h4>
         <Checkbox disabled labelText="Overrule individual Tracker Alignment" value={settingsconfig.trackeroverrule} />
         
        <h3>Fast Duration:</h3>
