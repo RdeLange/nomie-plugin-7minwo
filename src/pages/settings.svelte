@@ -180,7 +180,7 @@ async function initConfig(){
           <td style="vertical-align:middle ;text-align:left;width:250px"><p style="display:inline;font-weight:300;text-align:left;vertical-align:middle;">{trackersDisplay[0]}</p></td>
        </tr>
        <h3>Additional Log Entry Input:</h3>
-       <TextInput bind:value={settingsconfig.logentry} placeholder="Enter additional Log input..."  helperText="You can include a reference to the related Fast Exercise. For instance: I just did <fast> for <duration> hours."/>
+       <TextInput bind:value={settingsconfig.logentry} placeholder="Enter additional Log input..."  helperText="You can include a reference to the related 7 Minutes Workout. For instance: I just did a <7minswo> workout for <duration> hours."/>
       </Tile>
     <Row>
       <Column>

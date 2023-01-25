@@ -8,7 +8,7 @@
     "start": "sirv public",
     "validate": "svelte-check",
     "deploy": "rollup -c && gh-pages -d public -r https://$GH_TOKEN@github.com/SDBagel/svelte-web-mobile-ui.git",
-    "start:dev": "sirv public --cors --single --dev --host 0.0.0.0 --http2 --cert ca-cert.pem --key ca-key.pem --port 1234",
+    "start:dev": "sirv public --cors --single --dev --host 0.0.0.0 --http2 --cert ca-cert.pem --key ca-key.pem --port 2233",
     "dev": "run-p start:dev autobuild"
   },
   "devDependencies": {
