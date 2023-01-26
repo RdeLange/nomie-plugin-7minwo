@@ -25,7 +25,7 @@
   import Sun from "carbon-icons-svelte/lib/Sun.svelte";
   import Information from "carbon-icons-svelte/lib/Information.svelte";
 
-  const pluginname = "7 Mins Workout";
+  const pluginname = "Nomie 7 Mins Workout";
   const pluginemoji = "💪";
   var parent = "";
   let PlugiAapiUrl = "https://plugins.nomie.app/v1/nomie-plugin.js";
