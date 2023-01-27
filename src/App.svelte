@@ -308,7 +308,7 @@ function showMain(){
           }
           let logentry = config.logentry;
         logentry = logentry.replace("<duration>", finaltime.toString());
-        logentry = logentry.replace("<7minwo>", target);
+        logentry = logentry.replace("<7minswo>", target);
         const note = "7 Minutes Workout 💪:\n"+logentry+"\n\n"+trackinglog;
         plugin.createNote(note);
         
