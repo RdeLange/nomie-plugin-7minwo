@@ -28,7 +28,7 @@
   const pluginname = "Nomie 7 Mins Workout";
   const pluginemoji = "💪";
   var parent = "";
-  let PlugiAapiUrl = "https://plugins.nomie.app/v1/nomie-plugin.js";
+  let PlugiAapiUrl = "https://cdn.jsdelivr.net/gh/open-nomie/plugins/bin/v1/nomie-plugin.js";
   
   const plugin = new NomiePlugin({
         name: pluginname,
