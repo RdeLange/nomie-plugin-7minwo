@@ -4,7 +4,7 @@ The 💪Nomie 7 Minutes Workout Plugin is a plugin for Nomie6-oss.
 
 ## About the 💪Nomie 7 Minutes Workout Plugin
 
-The Nomie 7 Minutes Workout Plugin is a very simple bodyweight workout plugin based on Brett Klika's book "7 Minutes to Fit: 50 Anytime, Anywhere Interval Workouts." Choose the timeframe, select the target area, and do a bodyweight workout practically anywhere.
+The Nomie 7 Minutes Workout Plugin is a very simple bodyweight workout plugin based on Brett Klika's book "7 Minutes to Fit: 50 Anytime, Anywhere Interval Workouts." Choose the timeframe, select the target area, and do a bodyweight workout practically anywhere. The idea and animations are taken from the Barebone workout app by Bumhan Yu: [https://github.com/baadaa/barebone-workout](https://github.com/baadaa/barebone-workout)
 
 When your workout is completed the plugin can automatically log your results to the Nomie Trackable of your choice.
 
