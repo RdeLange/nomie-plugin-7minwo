@@ -31,7 +31,7 @@
             <h5 style="text-align:center">General Information</h5>
             <hr>
             <h4>General:</h4>
-            <h6>This is a plugin for {parent}. This plugin will support guided 7 minutes Workouts. The idea and animations are taken from the Barebone workout app by Bumhan Yu: [https://github.com/baadaa/barebone-workout](https://github.com/baadaa/barebone-workout). After a workout exercise the plugin will log the results (repeats & total time) in {parent}</h6>
+            <h6>This is a plugin for {parent}. This plugin will support guided 7 minutes Workouts. The idea and animations are taken from the Barebone workout app by Bumhan Yu: https://github.com/baadaa/barebone-workout. After a workout exercise the plugin will log the results (repeats & total time) in {parent}</h6>
             <hr><br>
             <h4>Licence:</h4>
             <h6>The {parent} 7MINWO Plugin is licenced under the MIT licence</h6>
